@@ -14,7 +14,7 @@ To write a program to implement the simple linear regression model for predictin
 4.Assign the points for representing in the graph
 5.Predict the regression for marks by using the representation of the graph.
 6.Compare the graphs and hence we obtained the linear regression for the
-given datas.
+given datas. 
 ## Program:
 ```
 /*
